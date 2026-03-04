@@ -24,7 +24,6 @@ tablet, and mobile devices.
 -   ✅ Navigation bar with smooth scrolling
 -   ✅ About section to showcase profile details
 -   ✅ Contact form for user inquiries
--   ✅ Clean and modern UI layout
 
 ------------------------------------------------------------------------
 
